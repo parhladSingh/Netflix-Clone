@@ -4,7 +4,7 @@ I utilized HTML, CSS, and JavaScript to develop this Netflix-Clone. The objectiv
 
 ## Quick Demo
 
-- **Live link** - https://parhladsingh.github.io/Netflix-Clone/
+- **Live link** - https://netflix-clone-bk6f.vercel.app/
   
 
 https://github.com/parhladSingh/Netflix-Clone/assets/142223673/0af5b015-23db-45a6-a057-5dabb0144ef0
